@@ -219,7 +219,7 @@ UART_Release_Reset:
   ldr   r0, =RESETS_RESET_DONE                   // load RESETS->RESET_DONE address
   ldr   r1, [r0]                                 // read RESETS->RESET_DONE value
   tst   r1, #(1<<26)                             // test UART0 reset-done bit
-  beq   .UART_Release_Reset_Wait                  // loop until UART0 is out of reset
+  beq   .UART_Release_Reset_Wait                 // loop until UART0 is out of reset
   bx    lr                                       // return
 
 /**
